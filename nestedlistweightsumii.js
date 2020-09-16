@@ -3,7 +3,7 @@
 let list = [[1,1],2,[1,1]]
 
 
-//O(n) solution that finds the deepest depth first and then uses it to get the sum.
+//O(n) solution that finds the deepest depth first and then uses it to get the sum.g
 
 function getSum(list, depth) {
     let sum = 0
